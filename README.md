@@ -12,33 +12,33 @@
 Integrates Gemini API for task extraction and Trello for task management.
 
 ## Features
-1. **Real-time Transcription**
+####  1. **Real-time Transcription**
   - Live audio capture and processing
   - Whisper model integration for accurate transcription
 
-2. **Audio File Processing**
+#### 2. **Audio File Processing**
   - Support for pre-recorded meeting uploads
   - Complete transcript generation
   - Meeting summary creation
 
-3. **Intelligent Summarization**
+#### 3. **Intelligent Summarization**
   - BART model implementation
   - Key discussion point extraction
   - Concise meeting summary generation
 
-4. **Task Automation**
+#### 4. **Task Automation**
   - Gemini API integration for task identification
   - Automatic date extraction
   - Direct Trello task creation
   - Schedule management
 
-5. **Content Organization**
+#### 5. **Content Organization**
   - Topic-based section breakdown
   - YouTube-style navigation system
   - Meeting summary publication
   - Integrated Trello updates
 
-6. **User Interface**
+#### 6. **User Interface**
   - Streamlit-based frontend
   - Intuitive transcription management
   - Summary generation controls
